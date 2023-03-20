@@ -189,6 +189,4 @@ document
   .querySelector("#clear-history")
   .addEventListener("click", clearSearchHistory);
 
-
-  // CHANGE GLOBAL VARIABLES
   

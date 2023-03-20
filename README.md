@@ -2,7 +2,7 @@
 
 ## Description
 
-Week 5 Challenge: To create a working weather dashboard. The user should be able to see the weather outlook for cities so that they may plan for trips accordingly. Given a weather dashboard input form, the user is able to search for a city. They are then presented with the current and future conditions for that city and the city is added to a seach history. The user is able to view the city name, the date, an icon representation of the weather conditions, the temperature, the humidity, and the wind speed. They are also presented with the 5-day forecast that displays the dates, an icon representation of the weather condistions, the temperature, the wind speed, and the humidity. When the user clicks on a city in the search history they are then presented with the current and futre conditions for that city.
+Week 6 Challenge: To create a working weather dashboard. The user should be able to see the weather outlook for cities so that they may plan for trips accordingly. Given a weather dashboard input form, the user is able to search for a city. They are then presented with the current and future conditions for that city and the city is added to a seach history. The user is able to view the city name, the date, an icon representation of the weather conditions, the temperature, the humidity, and the wind speed. They are also presented with the 5-day forecast that displays the dates, an icon representation of the weather condistions, the temperature, the wind speed, and the humidity. When the user clicks on a city in the search history they are then presented with the current and futre conditions for that city.
 
 ## Installation
 

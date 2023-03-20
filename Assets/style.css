@@ -82,29 +82,3 @@ button[type="submit"] {
   flex-direction: row;
   align-items: left;
 }
-
-/* css to handle multiple screen sizes */
-@media screen and (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-  .search-container {
-    width: 100%;
-  }
-  .weather-container {
-    width: 100%;
-  }
-}
-
-/* css to handle multiple screen sizes */
-@media screen and (max-width: 480px) {
-  .container {
-    flex-direction: column;
-  }
-  .search-container {
-    width: 100%;
-  }
-  .weather-container {
-    width: 100%;
-  }
-}
